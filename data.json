@@ -1,0 +1,16 @@
+{
+    {
+        "Gameid": 0,
+        "Gamepath": "GamePath",
+        "Gameargs": "Gameargs",
+        "Gameicon": "GameIcon",
+        "Gamebackground": "GameBackground"
+    },
+    {
+        "Gameid": 1,
+        "Gamepath": "GamePath",
+        "Gameargs": "Gameargs",
+        "Gameicon": "GameIcon",
+        "Gamebackground": "GameBackground"
+    }
+}
